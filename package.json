@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-lazy-load-image-component": "^1.6.3"
+  },
+  "devDependencies": {
+    "@types/react-lazy-load-image-component": "^1.6.4"
+  }
+}
